@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd5af75c8729b94c8a8a30062b33700, type: 3}
+  m_Name: MildCold
+  m_EditorClassIdentifier: 
+  ID: 20
+  Name: Mild Cold
+  RequiredDeparment: 5
+  TriageLevel: 0
+  TriageLevelColor: {r: 0, g: 0, b: 0, a: 0}
+  PatienceDuration: 120
+  PatienceReset: 1
+  SpawnRate: 70
+  WheelChairUsageRate: 0
+  FatalityRate: 2
+  TreatmentPlan: 1d0000001900000017000000

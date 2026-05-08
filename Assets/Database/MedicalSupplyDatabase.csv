@@ -1,0 +1,33 @@
+ID,Supply,Description,Location,Cost,Treats
+0,Anti-Allergy Medication,Treats mild allergic reactions.,Pharmacy,100,Mild  Allergic Reaction
+1,Anti-Nausea Medication,Relieves nausea and vomiting.,Pharmacy,200,Mild Pregnancy Discomfort
+2,Antibiotics,Used to treat bacterial infections,Pharmacy,200,Small Cut | Severe Pneumonia | Severe Ear  Infection
+3,Antihypertensive Medication,Lowers high blood pressure.,Pharmacy,300,Hypertensive Episode
+4,Antiseptic Wipes,Contains antiseptic solution to disinfect wounds or skin.,Pharmacy,100,Small Cut
+5,Baby Incubator,Provides a controlled| warm| and humid environment for premature or ill newborns to stabilize their health.,Supply Room,1000,Emergency C-Section
+6,Bandage,Covers wounds and injuries.,Supply Room,100,Minor Sprain | Small Wound | Deep Splinter | Small Cut
+7,Blood Pressure Cuff,Measures blood pressure.,Supply Room,250,Hypertensive Episode | Routine Pregnancy Check-Up
+8,Cold Compress,Reduces swelling and pain.,Supply Room,100,Minor Sprain
+9,Contraction Monitor,Tracks contractions during labor.,Supply Room,500,False  Labor Pains
+10,Cooling Pad,Used to reduce body temperature or soothe swelling by providing a cooling effect.,Pharmacy,150,High Fever
+11,Crutches,Supports mobility for injured patients.,Supply Room,400,Minor Sprain
+12,Defibrillator,Delivers an electric shock to the reart to restore normal rhythm.,Supply Room,800,Heart Attack
+13,Ear Drops,Used to treat ear infections| inflammation| or wax buildup.,Pharmacy,100,Severe Ear Infection
+14,Fetal Doppler,Monitors fetal heart rate.,Supply Room,400,Routine Pregnancy Check-Up | False  Labor Pains
+15,Fever Medication,Reduces fever in children.,Pharmacy,150,High Fever | Severe Ear Infection
+16,Forceps,Used for grasping and extracting objects.,Supply Room,200,Deep Splinter | Gunshot Wound Surgery
+17,Gauze Pads,Controls bleeding and covers wounds.,Supply Room,100,Gunshot Wound Surgery | Severe Head Trauma Surgery | Postpartum Hemorrhage
+18,Heart Medication,Used to manage heart conditions.,Pharmacy,350,Heart Attack
+19,Inhaler,Relieves asthma symptoms.,Pharmacy,300,Severe Asthma Attack
+20,Intracranial Pressure Monitor,Monitors pressure inside the skull.,Supply Room,600,Severe Head Trauma Surgery
+21,IV Bag,Contains fluids| medications| or nutrients for intravenous administration.,Supply Room,250,Heart Attack | Appendectomy | Gunshot Wound Surgery | Tonsillectomy | Minor Birth Complication | Postpartum Hemorrhage | Severe Pneumonia | Emergency C-Section
+22,Medical Tape,Secures bandages and dressings.,Supply Room,100,Minor Sprain
+23,Oral Rehydration Solution,Used to treat dehydration.,Pharmacy,200,Mild Fever | Mild Pregnancy Discomfort | False  Labor Pains | Mild Cold | Dehydration
+24,Oxygen Mask,Delivers oxygen to patients with breathing difficulties.,Supply Room,150,Severe Asthma Attack | Heart Attack | Severe Head Trauma Surgery | Minor Birth Complication | Postpartum Hemorrhage | Severe Pneumonia
+25,Painkillers,Used for pain relief and fever reduction.,Pharmacy,150,Mild Fever | Mild Pregnancy Discomfort | Mild Cold
+26,Scalpel,Used for surgical incisions.,Supply Room,250,Appendectomy | Severe Head Trauma Surgery | Tonsillectomy | Emergency C-Section
+27,Stethoscope,Listens to heart and lung sounds.,Supply Room,250,Severe Asthma Attack | Severe Pneumonia
+28,Sutures And Needles,Closes wounds during surgery.,Supply Room,150,Small Wound | Appendectomy | Gunshot Wound Surgery | Tonsillectomy
+29,Thermometer,Measures body temperature.,Supply Room,150,Mild Fever | Mild Cold | High Fever
+30,Umbilical Cord Clamps,Clamps the umbilical cord after birth.,Supply Room,200,Minor Birth Complication | Emergency C-Section
+31,Wheel Chair,Transport patients.,Supply Room,500,

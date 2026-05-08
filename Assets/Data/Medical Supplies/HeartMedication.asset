@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e826f37fbe6d5d8439e8cc4e6e7ee54b, type: 3}
+  m_Name: HeartMedication
+  m_EditorClassIdentifier: 
+  ID: 18
+  Name: Heart Medication
+  Description: Used to manage heart conditions.
+  Location: 0
+  Cost: 350
+  IsShared: 1
+  SupplyPrefab: {fileID: 0}
+  UITexture: {fileID: 21300000, guid: 19d7c0a5dfa2d214fa6906ca7c5e892b, type: 3}

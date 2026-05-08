@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd5af75c8729b94c8a8a30062b33700, type: 3}
+  m_Name: SevereHeadTraumaSurgery
+  m_EditorClassIdentifier: 
+  ID: 15
+  Name: Severe Head Trauma Surgery
+  RequiredDeparment: 5
+  TriageLevel: 2
+  TriageLevelColor: {r: 0, g: 0, b: 0, a: 0}
+  PatienceDuration: 90
+  PatienceReset: 0
+  SpawnRate: 7
+  WheelChairUsageRate: 100
+  FatalityRate: 80
+  TreatmentPlan: 1a000000110000001400000018000000

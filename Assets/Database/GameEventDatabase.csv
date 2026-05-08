@@ -1,0 +1,11 @@
+ID,Event,Description,Duration Text,Duration Days,Spawn Rate
+0,Charity Event,Earn 10% more funds at the end of the day,Temporary (2 Days),2,10
+1,Family Accident,A group of 3 to 4 patients arrives at once,Permanent,-1,15
+2,Full Moon,Decrease the patience of all patient| increase the movement speed and work speed of all players,Temporary (3 Days),3,10
+3,Medical Emergency,+1 Critical Patient,Permanent,-1,10
+4,Natural Disaster,Increase the spawn rate of Semi-Urgent and Critical Patients| double the earnings from both Triage Level,Temporary (5 Days),5,5
+5,Overtime,+1 Minute in Game Time,Temporary (4 Days),4,15
+6,Rush Hour,+2 Non-Urgent Patients,Permanent,-1,20
+7,Slow Day,Decrease the spawn rate of Semi-Urgent and Critical Patients| Increases the spawn rate of Non-Urgent Patients ,Temporary (1 Day),1,10
+8,VIP Patient,Treating a special patient grants bonus earnings,Permanent,-1,15
+9,Well-Prepared,Starts the day with +2 random medical supplies,Permanent,-1,20

@@ -1,0 +1,25 @@
+ID,Medical Case,Required Departments,Triage Level,Patience Duration,Patience Reset,Spawn Rate,Wheel Chair Usage Rate,Fatality Rate,Treatment Plan
+0,Heart Attack,Consultation Room,Critical,90,FALSE,8,90,85,Defibrillator | Oxygen Mask | Heart Medication | IV Bag
+1,Hypertension Episode,Consultation Room,Semi-Urgent,60,TRUE,35,30,35,Blood Pressure Cuff | Antihypertensive Medication
+2,Mild Allergic Reaction,Consultation Room,Non-Urgent,120,TRUE,60,0,10,Anti-Allergy Medication
+3,Mild Fever,Consultation Room,Non-Urgent,120,TRUE,70,0,5,Thermometer | Painkillers | Oral Rehydration Solution
+4,Minor Sprain,Consultation Room,Non-Urgent,120,TRUE,65,60,0,Cold Compress | Bandage | Medical Tape | Crutches
+5,Severe Asthma Attack,Consultation Room,Critical,90,FALSE,10,50,60,Oxygen Mask | Inhaler | Stethoscope
+6,Emergency C-Section,Maternity Ward,Critical,90,FALSE,8,60,30,Scalpel | Umbilical Cord Clamps | Baby Incubator | IV Bag
+7,False Labor Pains,Maternity Ward,Semi-Urgent,60,TRUE,35,50,0,Fetal Doppler | Oral Rehydration Solution | Contraction Monitor
+8,Mild Pregnancy Discomfort,Maternity Ward,Non-Urgent,120,TRUE,65,0,0,Painkillers | Oral Rehydration Solution | Anti-Nausea Medication
+9,Minor Birth Complication,Maternity Ward,Semi-Urgent,60,TRUE,30,80,40,Umbilical Cord Clamps | Oxygen Mask | IV Bag
+10,Postpartum Hemorrhage,Maternity Ward,Critical,90,FALSE,8,100,85,Gauze Pads | IV Bag | Oxygen Mask
+11,Routine Pregnancy Check-Up,Maternity Ward,Non-Urgent,120,TRUE,70,0,0,Fetal Doppler | Blood Pressure Cuff
+12,Appendectomy,Operating Room,Critical,90,FALSE,30,95,75,Scalpel | Sutures And Needles | IV Bag
+13,Deep Splinter,Operating Room,Non-Urgent,120,TRUE,55,0,3,Forceps | Bandage
+14,Gunshot Wound Surgery,Operating Room,Critical,90,FALSE,5,100,90,Gauze Pads | Forceps | Sutures And Needles | IV Bag
+15,Severe Head Trauma Surgery,Operating Room,Critical,90,FALSE,7,100,80,Scalpel | Gauze Pads | Intracranial Pressure Monitor | Oxygen Mask
+16,Small Wound,Operating Room,Semi-Urgent,60,TRUE,70,0,5,Sutures And Needles | Bandage
+17,Tonsillectomy,Operating Room,Semi-Urgent,60,TRUE,40,0,15,Scalpel | Sutures And Needles | IV Bag
+18,Dehydration ,Pediatrics Unit,Semi-Urgent,60,TRUE,40,50,30,Oral Rehydration Solution
+19,High Fever,Pediatrics Unit,Semi-Urgent,60,TRUE,35,40,25,Thermometer | Fever Medication | Cooling Pad
+20,Mild Cold,Pediatrics Unit,Non-Urgent,120,TRUE,70,0,2,Thermometer | Painkillers | Oral Rehydration Solution
+21,Severe Ear Infection,Pediatrics Unit,Semi-Urgent,60,TRUE,35,0,10,Antibiotics | Fever Medication | Ear Drops
+22,Severe Pneumonia,Pediatrics Unit,Critical,90,FALSE,10,80,70,Oxygen Mask | IV Bag | Stethoscope | Antibiotics
+23,Small Cut,Pediatrics Unit,Non-Urgent,120,TRUE,65,0,1,Antiseptic Wipes | Antibiotics | Bandage
